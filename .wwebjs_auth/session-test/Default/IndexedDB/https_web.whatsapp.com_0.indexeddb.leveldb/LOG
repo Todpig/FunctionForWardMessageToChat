@@ -1,0 +1,3 @@
+2023/03/01-11:10:00.448 3d24 Creating DB C:\Users\eduar\Documents\lucas\FunctionForWardMessageToChat\.wwebjs_auth\session-test\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/03/01-11:10:00.461 3d24 Reusing MANIFEST C:\Users\eduar\Documents\lucas\FunctionForWardMessageToChat\.wwebjs_auth\session-test\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/01-11:10:00.561 3d24 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

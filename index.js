@@ -46,9 +46,11 @@ client.on("ready", async () => {
         userGroups.map(async (chat) => {
             let waitTime = getRandomInt(3231, 4928)
             await sleep(waitTime)
-            opts.linkPreview = true
-            opts.mentions = getAllNumbers(chat);
-            console.log(chat.id)
+            msg.mentionedIds = getAllNumbers(chat);
+            console.log(msg)
+            
         });
     });
 });
+
+client.initialize()
