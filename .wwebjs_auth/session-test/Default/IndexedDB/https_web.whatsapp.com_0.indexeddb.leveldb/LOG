@@ -1,3 +1,21 @@
-2023/03/01-11:10:00.448 3d24 Creating DB C:\Users\eduar\Documents\lucas\FunctionForWardMessageToChat\.wwebjs_auth\session-test\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
-2023/03/01-11:10:00.461 3d24 Reusing MANIFEST C:\Users\eduar\Documents\lucas\FunctionForWardMessageToChat\.wwebjs_auth\session-test\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/03/01-11:10:00.561 3d24 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/03/02-09:45:07.384 21bc Reusing MANIFEST C:\Users\eduar\Documents\lucas\FunctionForWardMessageToChat\.wwebjs_auth\session-test\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/02-09:45:07.385 21bc Recovering log #64
+2023/03/02-09:45:07.509 21bc Reusing old log C:\Users\eduar\Documents\lucas\FunctionForWardMessageToChat\.wwebjs_auth\session-test\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000064.log 
+2023/03/02-09:45:39.448 3814 Level-0 table #69: started
+2023/03/02-09:45:39.477 3814 Level-0 table #69: 2239514 bytes OK
+2023/03/02-09:45:39.481 3814 Delete type=0 #64
+2023/03/02-09:45:39.740 794 Compacting 1@1 + 1@2 files
+2023/03/02-09:45:39.808 794 Generated table #70@1: 40511 keys, 1875441 bytes
+2023/03/02-09:45:39.808 794 Compacted 1@1 + 1@2 files => 1875441 bytes
+2023/03/02-09:45:39.811 794 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/02-10:06:02.620 270c Level-0 table #72: started
+2023/03/02-10:06:02.661 270c Level-0 table #72: 2416043 bytes OK
+2023/03/02-10:06:02.665 270c Delete type=2 #66
+2023/03/02-10:06:02.665 270c Delete type=0 #68
+2023/03/02-10:06:02.665 270c Delete type=2 #69
+2023/03/02-10:10:34.056 2504 Compacting 1@1 + 1@2 files
+2023/03/02-10:10:34.129 2504 Generated table #73@1: 43492 keys, 2180895 bytes
+2023/03/02-10:10:34.129 2504 Compacted 1@1 + 1@2 files => 2180895 bytes
+2023/03/02-10:10:34.131 2504 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/02-10:10:34.132 2504 Delete type=2 #70
+2023/03/02-10:10:34.132 2504 Delete type=2 #72

@@ -43,14 +43,18 @@ client.on("ready", async () => {
         let waitTime = getRandomInt(3231, 4928)
         await sleep(waitTime)
         const opts = {};
+        msgEdit = {};
         userGroups.map(async (chat) => {
             let waitTime = getRandomInt(3231, 4928)
             await sleep(waitTime)
-            msg.mentionedIds = getAllNumbers(chat);
-            console.log(msg)
-            
+            const opts = {}
+            opts.mentions = getAllNumbers(chat)
+            msg.forward(chat)
+            let waitTime2 = getRandomInt(3231, 4928)
+            await sleep(waitTime2)
+            await chat.sendMessage("", opts, chat.id._serialized)           
         });
     });
 });
 
-client.initialize()
+client.initialize();

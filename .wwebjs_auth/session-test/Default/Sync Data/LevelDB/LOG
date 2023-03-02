@@ -1,2 +1,3 @@
-2023/03/01-11:09:58.792 1bc8 Creating DB C:\Users\eduar\Documents\lucas\FunctionForWardMessageToChat\.wwebjs_auth\session-test\Default\Sync Data\LevelDB since it was missing.
-2023/03/01-11:09:58.841 1bc8 Reusing MANIFEST C:\Users\eduar\Documents\lucas\FunctionForWardMessageToChat\.wwebjs_auth\session-test\Default\Sync Data\LevelDB/MANIFEST-000001
+2023/03/02-09:45:05.462 a0 Reusing MANIFEST C:\Users\eduar\Documents\lucas\FunctionForWardMessageToChat\.wwebjs_auth\session-test\Default\Sync Data\LevelDB/MANIFEST-000001
+2023/03/02-09:45:05.462 a0 Recovering log #3
+2023/03/02-09:45:05.463 a0 Reusing old log C:\Users\eduar\Documents\lucas\FunctionForWardMessageToChat\.wwebjs_auth\session-test\Default\Sync Data\LevelDB/000003.log 

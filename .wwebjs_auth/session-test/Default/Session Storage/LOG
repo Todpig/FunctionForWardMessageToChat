@@ -1,2 +1,3 @@
-2023/03/01-11:09:58.975 bf0 Creating DB C:\Users\eduar\Documents\lucas\FunctionForWardMessageToChat\.wwebjs_auth\session-test\Default\Session Storage since it was missing.
-2023/03/01-11:09:59.172 bf0 Reusing MANIFEST C:\Users\eduar\Documents\lucas\FunctionForWardMessageToChat\.wwebjs_auth\session-test\Default\Session Storage/MANIFEST-000001
+2023/03/02-09:45:07.145 1c08 Reusing MANIFEST C:\Users\eduar\Documents\lucas\FunctionForWardMessageToChat\.wwebjs_auth\session-test\Default\Session Storage/MANIFEST-000001
+2023/03/02-09:45:07.146 1c08 Recovering log #3
+2023/03/02-09:45:07.147 1c08 Reusing old log C:\Users\eduar\Documents\lucas\FunctionForWardMessageToChat\.wwebjs_auth\session-test\Default\Session Storage/000003.log 
